@@ -5,3 +5,17 @@ img{
 img.scooby{
     width: 10%;
 }
+
+body{
+    background-image: url('https://www.planoaberto.com.br/wp-content/uploads/2021/05/bebop-capa.jpg');
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size: 133%;
+}
+
+p{
+    color: blueviolet;
+}
+h1{
+    color: blueviolet;
+}
