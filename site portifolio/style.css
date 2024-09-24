@@ -10,12 +10,21 @@ body{
     background-image: url('https://www.planoaberto.com.br/wp-content/uploads/2021/05/bebop-capa.jpg');
     background-repeat: no-repeat;
    background-position: center;
-   background-size: 133%;
+   background-size: 147%;
 }
 
-p{
-    color: blueviolet;
+h3{
+    color: aqua;
 }
-h1{
-    color: blueviolet;
+h2{
+    color: aqua;
+}
+div.team{
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
 }
