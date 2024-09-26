@@ -1,9 +1,11 @@
 img{
     width: 20%;
+    margin-top: 10px;
 }
 
 img.scooby{
     width: 10%;
+    margin-top: 10px;
 }
 
 body{
@@ -24,7 +26,13 @@ div.team{
     border-radius: 15px;
     padding: 20px;
     width: 300px;
+    height: 700px;
     margin: 50px auto;
     text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+div.member{
+    align-items: center;
 }
