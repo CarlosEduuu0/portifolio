@@ -1,0 +1,23 @@
+p{
+    color :blueviolet
+}
+
+h3{
+
+    color:darkmagenta
+}
+
+h1{
+    font-style: italic;
+    font-size: 50px;
+}
+
+li{
+
+    color :aquamarine
+    
+}
+
+li{
+    font-style: inherit;
+}
